@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595937800392",
+    "project_id": "islam-mutton-shop-user",
+    "storage_bucket": "islam-mutton-shop-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595937800392:android:e48739df3c9eb626adf5fd",
+        "android_client_info": {
+          "package_name": "com.example.islammuttonshop_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2mrk9YEUtI9QFWEetsBZsMowq2Bkrm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
